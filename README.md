@@ -6,7 +6,7 @@
 
 Gowun Batang(고운바탕) is a serif text typeface inspired by neat, pencil-written handwriting letterforms. Gowun means ‘neat and delicate’ in Korean and this typeface has a warm and friendly impression. Batang is the style name for serif Hangeul text typeface. 
 
-It is designed especially for Hangeul typography, but it also includes Latin alphabet as a part of KS X 1001. This typeface has a regular weight at this moment.
+It is designed especially for Hangeul typography, but it also includes Latin alphabet as a part of KS X 1001. This typeface has a regular and a bold weight.
 
 ## Basic Information
 Gowun Batang(고운바탕) is a revised name of 'Gowun Hangeul-Batang(고운한글바탕)' which was released in 2010. 
